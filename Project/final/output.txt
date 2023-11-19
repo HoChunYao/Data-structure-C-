@@ -1,0 +1,43 @@
+LQ constructed
+LQ added 10
+LQ added 100
+LQ added 50
+LQ added 30
+LQ delete 10
+100 50 30 
+
+list constructed 
+list added 10
+list added 20
+list added 100
+list added 50
+10
+100
+list deleted 20
+not found
+10 100 50 
+
+sortedList constructed 
+sortedList added 10
+sortedList added 20
+sortedList added 100
+sortedList added 50
+sortedList deleted 20
+10 50 100 
+
+stack constructed 
+stack added 10
+stack added 20
+stack added 100
+stack added 50
+stack delete 50
+100 20 10 
+
+bst constructed
+bst added 30
+bst added 50
+bst added 20
+bst added 10
+bst delete 30
+10 20 50 
+
